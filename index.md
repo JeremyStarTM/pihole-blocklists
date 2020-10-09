@@ -13,8 +13,11 @@
 -> For Linux:    `sudo apt install git`
 2. Download repository with `git clone https://github.com/JeremyStarTM/pihole-blocklists.git`
 3. You are done!
-# 
-# 
-# 
+
+
+
+
+
+
 ### These blocklists are designed to be used in [**Pi-hole**](https://pi-hole.net)
 ### *Copyright (c) 2020 JeremyStar*
