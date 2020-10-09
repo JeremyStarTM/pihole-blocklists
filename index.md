@@ -1,3 +1,3 @@
 # **Pi-hole blocklists**
-### These blocklists are designed to be used in [**Pi-hole**](pi-hole.net)
+### These blocklists are designed to be used in [**Pi-hole**](https://pi-hole.net)
 ### *Copyright (c) 2020 JeremyStar*
