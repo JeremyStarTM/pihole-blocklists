@@ -9,7 +9,7 @@
 
 ### **Download the lists of the project**
 1. Install git
--> For Windows:  [gitforwindows.com](https://gitforwindows.com)
+-> For Windows:  [gitforwindows.com](https://gitforwindows.org)
 -> For Linux:    `sudo apt install git`
 2. Download repository with `git clone https://github.com/JeremyStarTM/pihole-blocklists.git`
 3. You are done!
