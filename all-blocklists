@@ -42,3 +42,8 @@ analytics.google.com
 www.analytics.google.com
 gstatic.google.com
 www.gstatic.google.com
+
+# Malware and wrong domains
+vlc.de
+7zip.download
+winrar.de
